@@ -18,10 +18,10 @@ jupyter notebook notebooks/titanic_eda.ipynb
 ## Repository  Strucute
 
 titanic-eda/
-├── data/
-│ └── train.csv # Titanic dataset (from Kaggle)
-├── notebooks/
-│ └── titanic_eda.ipynb # Main EDA notebook
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── .gitignore # Files/folders ignored by Git
+├── data/                       # Titanic dataset (from Kaggle)
+│   └── train.csv
+├── notebooks/                  # Jupyter notebooks
+│   └── titanic_eda.ipynb       # Main EDA notebook
+├── README.md                   # Project documentation
+├── requirements.txt            # Python dependencies
+└── .gitignore                  # Files/folders ignored by Git
